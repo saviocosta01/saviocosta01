@@ -3,7 +3,14 @@ nome: Sávio Costa Silva
 
 Desenvolvedor Front-End
 
-- 🌱 Estudando JavaScript
+Tecnologias:
+-Html
+-Css
+-JavaScript
+-React
+-TypeScript
+
+
 - 📫 Contate-me no email: savio.costa.silva@gmail.com
 - 😄 Pronouns: Ele/Dele
 

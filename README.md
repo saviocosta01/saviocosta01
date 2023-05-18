@@ -2,7 +2,7 @@
 <p>nome: Sávio Costa Silva</p>
 Desenvolvedor Front-End
 
-Tecnologias:
+<h4>Tecnologias:</h4>
 
 -Html
 

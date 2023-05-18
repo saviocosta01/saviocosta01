@@ -6,9 +6,13 @@ Desenvolvedor Front-End
 Tecnologias:
 
 -Html
+
 -Css
+
 -JavaScript
+
 -React
+
 -TypeScript
 
 

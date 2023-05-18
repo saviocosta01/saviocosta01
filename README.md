@@ -1,5 +1,5 @@
 ### Ola! Eu sou o saviocosta01
-<p>nome: Sávio Costa Silva</p>
+
 Desenvolvedor Front-End
 
 <h4>Tecnologias:</h4>

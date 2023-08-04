@@ -4,18 +4,18 @@ Desenvolvedor Back-End
 
 <h4>Tecnologias e ferramentas:</h4>
 
--JavaScript
--Python
--Php
--Node js
--next Js
--Laravel
--Docker
--express
--React
--Styled-Components
--TypeScript
--Tailwind css
+-JavaScript;
+-Python;
+-Php;
+-Node js;
+-next Js;
+-Laravel;
+-Docker;
+-express;
+-React;
+-Styled-Components;
+-TypeScript;
+-Tailwind css;
 
 
 - 📫 Contate-me no email: savio.costa.silva@gmail.com

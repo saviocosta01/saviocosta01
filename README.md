@@ -1,16 +1,26 @@
 ### Ola! Eu sou o saviocosta01
 
-Desenvolvedor Front-End
+Desenvolvedor Back-End
 
 <h4>Tecnologias:</h4>
 
--Html
-
--Css
-
 -JavaScript
 
+-Node js
+
+-next Js
+
+-Php
+
+-Laravel
+
+-Docker
+
+-express
+
 -React
+
+-Styled-Components
 
 -TypeScript
 

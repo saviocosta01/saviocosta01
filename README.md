@@ -1,6 +1,6 @@
 ### Ola! Eu sou o saviocosta01
 
-Desenvolvedor Back-End
+Desenvolvedor FullStack
 
 <h4>Tecnologias e ferramentas:</h4>
 

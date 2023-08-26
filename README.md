@@ -5,7 +5,6 @@ Sou um desenvolvedor full-stack apaixonado por transformar ideias em soluções 
 <h4>Tecnologias e ferramentas:</h4>
 
 -JavaScript
-
 -Python
 
 -Php

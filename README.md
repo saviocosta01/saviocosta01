@@ -6,16 +6,16 @@ Sou um desenvolvedor full-stack apaixonado por transformar ideias em soluções 
 
 - JavaScript
 - Python
-, Php
-, Node js
-, next Js
-, Laravel
-, Docker
-, express
-, React
-, Styled-Components
-, TypeScript
-, Tailwind css
+- Php
+- Node js
+- next Js
+- Laravel
+- Docker
+- express
+- React
+- Styled-Components
+- TypeScript
+- Tailwind css
 
 
 - 📫 Contate-me no email: savio.costa.silva@gmail.com

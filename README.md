@@ -39,6 +39,8 @@ Sou um desenvolvedor full-stack apaixonado por transformar ideias em soluções 
  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   
 </div>
+
+##
   
   <div> 
 

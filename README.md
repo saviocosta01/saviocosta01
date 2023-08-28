@@ -40,8 +40,6 @@ Sou um desenvolvedor full-stack apaixonado por transformar ideias em soluções 
   
 </div>
   
-  ##
-  
   <div> 
 
   <a href = "mailto:savio.costa.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
